@@ -8,5 +8,3 @@ This project implements an I2C master controller in Verilog, featuring an FSM-ba
 - Supports dynamic read/write operations
 - 7-bit slave addressing
 - Acknowledgment detection and clock synchronization
-
-## File Structure
