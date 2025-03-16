@@ -1,2 +1,12 @@
-# I2C_Protocol_Design_and_Verification
-Designed and verified an I2C master controller with FSM-based start/stop, address, and data transfer handling. Supports dynamic read/write modes, 7-bit slave addressing, acknowledgment detection, and clock synchronization (SCL) logic.
+# I2C Protocol Design and Verification
+
+## Overview
+This project implements an I2C master controller in Verilog, featuring an FSM-based design for managing start/stop conditions, address transmission, and data transfer. It supports 7-bit slave addressing, dynamic read/write operations, acknowledgment detection, and clock synchronization (SCL).
+
+## Features
+- FSM-based I2C master controller
+- Supports dynamic read/write operations
+- 7-bit slave addressing
+- Acknowledgment detection and clock synchronization
+
+## File Structure
